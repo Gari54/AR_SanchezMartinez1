@@ -1,0 +1,2 @@
+Este capítulo se va a hablar de cómo comenzar a utilizar Git. 
+Empezaremos describiendo algunos conceptos básicos sobre las
